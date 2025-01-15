@@ -12,6 +12,7 @@ This project uses an ESP32 to interface with a Telegram bot, enabling you to rem
 - Arduino IDE with the following libraries:
   - UniversalTelegramBot
   - WakeOnLan
+  - ArduinoJson
 - A PC configured for Wake-on-LAN
 
 # Setup
